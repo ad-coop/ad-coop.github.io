@@ -12,9 +12,9 @@ params:
   title: "AD COOP"
   description: "Accompagnement à et vers la coopération"
   images: 
-    - "logo.png"
+    - "images/logo.png"
 
-  logo: "logo.png"
+  logo: "images/logo.png"
 
   favicons:
     themeColor: "#FFFFFF"

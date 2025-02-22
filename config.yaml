@@ -1,0 +1,81 @@
+baseURL: "https://www.example.com/"
+theme: "adcoop"
+languageCode: "fr-fr"
+
+title: "AD COOP | Alban Dericbourg"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "AD COOP"
+  description: "Accompagnement à et vers la coopération"
+  images: 
+    - "logo.png"
+
+  logo: "logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location: []
+
+  contact:
+    - "alban@dericbourg.net"
+    - "06 61 24 71 74"
+
+  copyright: "© 2025 Alban Dericbourg"
+
+menus:
+  main:
+    - name: "Accueil"
+      url: "/"
+      weight: 1
+
+    - name: "Facilitation"
+      url: "/facilitation/"
+      weight: 2
+
+    - name: "Jeu du Tao"
+      url: "/tao"
+      weight: 3
+
+    - name: "Qui suis-je ?"
+      url: "/qui-suis-je"
+      weight: 4
+
+  buttons:
+    - name: "Contact"
+      url: "/contact"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Facilitation"
+      url: "/facilitation/"
+      weight: 1
+
+    - name: "Taoanimation"
+      url: "/tao"
+      weight: 2
+
+    - name: "Qui suis-je ?"
+      url: "/qui-suis-je"
+      weight: 3
+
+    - name: "Contact"
+      url: "/contact"
+      weight: 4
+
+taxonomies:
+  series: "series"
+  tags: "tags"

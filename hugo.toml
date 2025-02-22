@@ -1,0 +1,4 @@
+baseURL = 'https://adcoop.fr/'
+languageCode = 'fr-fr'
+title = 'AD COOP | Alban Dericbourg'
+theme = 'adcoop'

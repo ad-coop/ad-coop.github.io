@@ -1,7 +1,7 @@
 +++
 title = "Qui suis-je ?"
 description = "Alban Dericbourg"
-date = "2025-02-21"
+date = "2025-02-22"
 aliases = ["about", "qui-suis-je", "alban", "alban-dericbourg"]
 author = "Alban Dericbourg"
 +++

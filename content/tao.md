@@ -1,7 +1,7 @@
 +++
 title = "Jeu du Tao "
 description = "Un jeu pour changer le monde"
-date = "2025-02-21"
+date = "2025-02-22"
 aliases = ["taoanimation", "jeu-du-tao"]
 author = "Alban Dericbourg"
 type = "page"

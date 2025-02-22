@@ -1,7 +1,7 @@
 +++
 title = "Facilitation"
 description = "Faire ensemble pour aller plus loin"
-date = "2025-01-25"
+date = "2025-02-22"
 aliases = ["facilitation-intelligence-collective", "facilitation-gouvernance-partagee"]
 author = "Alban Dericbourg"
 type = "page"

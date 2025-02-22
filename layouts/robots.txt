@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://adcoop.fr/sitemap.xml

@@ -1,4 +1,4 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://adcoop.fr/"
 theme: "adcoop"
 languageCode: "fr-fr"
 
@@ -30,7 +30,7 @@ params:
   location: []
 
   contact:
-    - "alban@dericbourg.net"
+    - "alban@adcoop.fr"
     - "06 61 24 71 74"
 
   copyright: "© 2025 Alban Dericbourg"

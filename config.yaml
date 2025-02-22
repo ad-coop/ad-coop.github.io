@@ -1,6 +1,7 @@
 baseURL: "https://adcoop.fr/"
 theme: "adcoop"
 languageCode: "fr-fr"
+enableRobotsTXT: true
 
 title: "AD COOP | Alban Dericbourg"
 

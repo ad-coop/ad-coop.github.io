@@ -6,10 +6,10 @@ content:
   text: "À FAIRE - explication de la coopération"
 
   buttonPrimary:
-    label: "How we work"
-    url: "#"
+    label: "Voir l'offre"
+    url: "#services"
 
   buttonSecondary:
-    label: "Let's talk"
-    url: ""
+    label: "Contactez-moi"
+    url: "/contact/"
 

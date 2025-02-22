@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Accompagnement à et vers la coopération"
+  text: "À FAIRE - explication de la coopération"
 
   buttonPrimary:
     label: "How we work"

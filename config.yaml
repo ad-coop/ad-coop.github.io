@@ -27,8 +27,6 @@ params:
     facebook: "#"
     twitter: "#"
 
-  location: []
-
   contact:
     - "alban@adcoop.fr"
     - "06 61 24 71 74"

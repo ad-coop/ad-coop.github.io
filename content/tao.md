@@ -7,7 +7,7 @@ author = "Alban Dericbourg"
 type = "page"
 +++
 
-Le Jeu do Tao vous aide à **atteindre votre objectif** en faisant appel à l'intelligence collective.
+Le Jeu du Tao vous aide à **atteindre votre objectif** en faisant appel à l'intelligence collective.
 
 Cet objectif, ce souhait — que l'on appellera « quête » au cours de la partie — peut être aussi bien matériel, relationnel, créatif que personnel. Au cours de la partie, les participant·e·s utilisent l'intelligence collective pour s'aider mutuellement à réaliser leur souhait.
 

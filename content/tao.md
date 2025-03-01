@@ -11,7 +11,7 @@ Le Jeu du Tao vous aide à **atteindre votre objectif** en faisant appel à l'in
 
 Cet objectif, ce souhait — que l'on appellera « quête » au cours de la partie — peut être aussi bien matériel, relationnel, créatif que personnel. Au cours de la partie, les participant·e·s utilisent l'intelligence collective pour s'aider mutuellement à réaliser leur souhait.
 
-Il s'agit d'un jeu gagnant-gagnant ! Les joueurs jouent **ensemble**, et non pas les un·e·s contre les autres. Lors d'une partie du Jeu do Tao, votre seul adversaire, c'est vous-même.
+Il s'agit d'un jeu gagnant-gagnant ! Les joueurs jouent **ensemble**, et non pas les un·e·s contre les autres. Lors d'une partie de Jeu du Tao, votre seul adversaire, c'est vous-même.
 
 Le Jeu vous invite à coopérer et à échanger avec bienveillance, qualité d'écoute, liberté de parole et clarté. Il s'adresse aussi bien aux **particuliers** qu'aux **entreprises**, pour des **quêtes individuelles ou collectives**.
 

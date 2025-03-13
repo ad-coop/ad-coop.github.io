@@ -1,7 +1,8 @@
 +++
 title = "Gouvernance partagée"
-description = "Faire ensemble pour aller plus loin"
-date = "2025-02-22"
+subtitle = "Faire ensemble pour aller plus loin"
+description = "Accompagnement à la définition de votre gouvernance partagée : qui décide de quoi, et comment ?"
+date = "2025-03-13"
 aliases = ["gouvernance-partagee"]
 author = "Alban Dericbourg"
 type = "page"

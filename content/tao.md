@@ -1,7 +1,8 @@
 +++
 title = "Jeu du Tao "
-description = "Un jeu pour changer le monde"
-date = "2025-02-22"
+subtitle = "Un jeu pour changer le monde"
+description = "Le Jeu du Tao utilise l'intelligence collective pour atteindre vos objectifs individuels ou collectifs, personnels ou professionnels. Jouez ensemble dans une ambiance bienveillante !"
+date = "2025-03-13"
 aliases = ["taoanimation", "jeu-du-tao"]
 author = "Alban Dericbourg"
 type = "page"

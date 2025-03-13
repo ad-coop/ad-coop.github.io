@@ -1,7 +1,8 @@
 +++
 title = "Facilitation"
-description = "Faire ensemble pour aller plus loin"
-date = "2025-02-22"
+subtitle = "Faire ensemble pour aller plus loin"
+description = "Facilitation vos réunions pour aider à la prise de décisions et résoudre les problèmes, en utilisant des outils d'intelligence collective et en favorisant la coopération."
+date = "2025-03-13"
 aliases = ["facilitation-intelligence-collective", "facilitation-gouvernance-partagee"]
 author = "Alban Dericbourg"
 type = "page"

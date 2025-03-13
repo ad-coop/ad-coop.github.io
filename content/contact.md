@@ -1,6 +1,7 @@
 +++
 title = "Contact"
-date = "2025-02-22"
+desription = "AD COOP | Alban Dericbourg — Contactez-moi !"
+date = "2025-03-13"
 aliases = ["me-contacter"]
 author = "Alban Dericbourg"
 +++

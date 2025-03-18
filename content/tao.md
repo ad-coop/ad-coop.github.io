@@ -10,7 +10,7 @@ type = "page"
 
 Le Jeu du Tao vous aide à **atteindre votre objectif** en faisant appel à l'intelligence collective.
 
-Cet objectif, ce souhait — que l'on appellera « quête » au cours de la partie — peut être aussi bien matériel, relationnel, créatif que personnel. Au cours de la partie, les participant·e·s utilisent l'intelligence collective pour s'aider mutuellement à réaliser leur souhait.
+Cet objectif — que l'on appellera « quête » au cours de la partie — peut être aussi bien matériel, relationnel, créatif que personnel. Au cours de la partie, les participant·e·s utilisent l'intelligence collective pour s'aider mutuellement à avancer dans leur quête.
 
 Il s'agit d'un jeu gagnant-gagnant ! Les joueurs jouent **ensemble**, et non pas les un·e·s contre les autres. Lors d'une partie de Jeu du Tao, votre seul adversaire, c'est vous-même.
 

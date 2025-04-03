@@ -11,7 +11,7 @@ summaryLength: 20
 
 params:
   title: "AD COOP"
-  description: "AD COOP | Alban Dericbourg — Accompagnement à et vers la coopération, gouvernance partagée, Jeu du Tao"
+  description: "Accompagnement de la coopération, gouvernance partagée, conduite du changement, Jeu du Tao"
   images: 
     - "images/logo.png"
 

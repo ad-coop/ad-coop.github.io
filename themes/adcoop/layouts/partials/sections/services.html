@@ -14,7 +14,9 @@
       {{ range .content.cards }}
         <div class="col-12 col-xl-4">
           <div class="card bg-card border-0 border-radius-34 p-4">
-            {{ with .image }}{{ partial "utilities/image-fluid.html" . }}{{ end }}
+            <div class="text-center">
+              {{ with .image }}{{ partial "icons/service.html" }}{{ end }}
+            </div>
             <div class="card-body text-center">
               {{ with .title }}<h3 class="card-title text-center text-primary pb-4">{{ . }}</h3>{{ end }}
               {{ with .text }}<p class="card-text text-black-61 fs-5 pb-4">{{ . }}</p>{{ end }}

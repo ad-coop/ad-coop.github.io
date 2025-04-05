@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Mes propositions"
-  text: "Je vous propose différents leviers pour accompagneer la coopération, en fonction de vos besoins et de vos objectifs. Que vous soyez une entreprise, une association, une collectivité ou un groupe informel, vous pouvez bénéficier d'un accompagnement sur mesure, adapté à votre contexte et à vos enjeux."
+  text: "Je vous propose différents leviers pour accompagner la coopération, en fonction de vos besoins et de vos objectifs. Que vous soyez une entreprise, une association, une collectivité ou un groupe informel, vous pouvez bénéficier d'un accompagnement sur mesure, adapté à votre contexte et à vos enjeux."
   cards:
     - image: "images/services-web-development.png"
       title: "Facilitation"

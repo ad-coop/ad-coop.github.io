@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Mes propositions"
-  text: "Je vous propose différents leviers pour accompagner la coopération, en fonction de vos besoins et de vos objectifs. Que vous soyez une entreprise, une association, une collectivité ou un groupe informel, vous pouvez bénéficier d'un accompagnement sur mesure, adapté à votre contexte et à vos enjeux."
+  text: "Je vous propose différents leviers pour accompagner la coopération, en fonction de vos besoins et de vos objectifs. Que vous soyez une entreprise, une équipe, une association, une collectivité ou un groupe informel, vous pouvez bénéficier d'un accompagnement sur mesure, adapté à votre contexte et à vos enjeux."
   cards:
     - image: "images/services-web-development.png"
       title: "Facilitation"
@@ -21,7 +21,7 @@ content:
 
     - image: "images/services-web-development.png"
       title: "Jeu du Tao"
-      text: "Que vous soyez un particulier, un groupe informel ou une enteprise, le Jeu du Tao est un outil puissant pour réaliser ses souhaits ou atteindre ses objectifs, tout en explorant la coopération, la communication et la prise de décision. "
+      text: "Que vous soyez un particulier, un groupe informel ou une équipe, le Jeu du Tao est un outil puissant pour réaliser ses souhaits ou atteindre ses objectifs, tout en explorant la coopération, la communication et la prise de décision. "
       button:
         label: "En savoir plus"
         url: "/jeu-du-tao"

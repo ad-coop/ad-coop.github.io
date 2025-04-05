@@ -7,7 +7,7 @@ content:
   cards:
     - image: "images/services-web-development.png"
       title: "Facilitation"
-      text: "Je facilite vos réunions afin de vous aider à prendre des décisions ainsi qu'à identifier et à résoudre vos problèmes en utilisant l'intelligence collective. Si cela est approprié à votre contexte , je peux également faciliter vos réunions de gouvernance partagée."
+      text: "Je facilite vos réunions afin de vous aider à prendre des décisions ainsi qu'à identifier et à résoudre vos problèmes en utilisant l'intelligence collective. Si cela est approprié à votre contexte, je peux également faciliter vos réunions de gouvernance partagée."
       button:
         label: "En savoir plus"
         url: "/facilitation"

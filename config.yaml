@@ -2,6 +2,7 @@ baseURL: "https://adcoop.fr/"
 theme: "adcoop"
 languageCode: "fr-fr"
 enableRobotsTXT: true
+enableGitInfo: true
 
 title: "AD COOP | Alban Dericbourg"
 
@@ -80,3 +81,19 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date

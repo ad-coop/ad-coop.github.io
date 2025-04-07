@@ -2,7 +2,6 @@
 title = "Qui suis-je ?"
 subtitle = "Alban Dericbourg"
 description = "Alban Dericbourg — J'accompagne la coopération dans toutes ses phases avec une expérience solide de l'entreprise"
-date = "2025-02-23"
 aliases = ["about", "qui-suis-je", "alban", "alban-dericbourg"]
 author = "Alban Dericbourg"
 +++

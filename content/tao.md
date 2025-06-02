@@ -23,7 +23,9 @@ Je peux acueillir à l'[Atelier Kiyose](https://www.latelierkiyose.fr/) à Brux,
 
 ## Prochaines parties
 
-Il n'y a pas de partie programmée pour le moment. Néamoins, je peux en faciliter une sur demande. Contactez-moi !
+[Retrouvez le calendrier des parties grand public sur Facebook.](https://www.facebook.com/adcoop.alban.dericbourg/events)
+
+Je peux également en faciliter une sur demande. Contactez-moi !
 
 ## Tarifs
 

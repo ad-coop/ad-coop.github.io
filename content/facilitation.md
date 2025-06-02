@@ -18,7 +18,7 @@ Si vous la pratiquez ou souhaitez la pratiquer, je peux également faciliter vos
 
 ## Périmètre d'intervention
 
-J'interviens en Nouvelle-Aquitaine, et en particulier sur le nord de la région (ex Poitou-Charentes), dans vos locaux ou dans un espace de votre choix (tiers-lieux, espaces de co-working).
+Basé entre Poitiers et Angoulême, j'interviens en Nouvelle-Aquitaine, et en particulier sur le nord de la région (ex Poitou-Charentes), dans vos locaux ou dans un espace de votre choix (tiers-lieux, espaces de co-working).
 
 
 ## Tarifs

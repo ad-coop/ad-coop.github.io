@@ -17,7 +17,7 @@ Le Jeu vous invite à coopérer et à échanger avec bienveillance, qualité d'�
 
 ## Où jouer ?
 
-J'interviens sur l'ex-Poitou-Charentes (Charente, Charente-Maritime, Deux-Sèvres et Vienne).
+J'interviens autour de Poitiers et sur l'ex-Poitou-Charentes (Charente, Charente-Maritime, Deux-Sèvres et Vienne).
 
 Je peux acueillir à l'[Atelier Kiyose](https://www.latelierkiyose.fr/) à Brux, chez vous ou dans votre entreprise, ou encore dans des espaces partagés (co-working, tiers-lieu...)
 

@@ -1,7 +1,7 @@
 +++
 title = "Ressources"
 subtitle = "Ressources utiles à la coopération"
-description = "Ressources utiles à la coopération"
+description = "Partage de ressources utiles à la coopération"
 aliases = ["ressources-utiles"]
 author = "Alban Dericbourg"
 +++

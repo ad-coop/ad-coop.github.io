@@ -48,7 +48,7 @@ menus:
       weight: 2
 
     - name: "Jeu du Tao"
-      url: "/tao"
+      url: "/jeu-du-tao"
       weight: 3
 
     - name: "Qui suis-je ?"
@@ -67,7 +67,7 @@ menus:
       weight: 1
 
     - name: "Taoanimation"
-      url: "/tao"
+      url: "/jeu-du-tao"
       weight: 2
 
     - name: "Qui suis-je ?"

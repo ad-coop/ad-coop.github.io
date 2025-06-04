@@ -14,9 +14,9 @@ params:
   title: "AD COOP"
   description: "Accompagnement de la coopération, gouvernance partagée, conduite du changement, Jeu du Tao"
   images: 
-    - "images/logo.png"
+    - "images/logo.webp"
 
-  logo: "images/logo.png"
+  logo: "images/logo.webp"
 
   favicons:
     themeColor: "#FFFFFF"

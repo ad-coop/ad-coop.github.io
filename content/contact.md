@@ -5,6 +5,6 @@ aliases = ["me-contacter"]
 author = "Alban Dericbourg"
 +++
 
-📞 <span itemprop="telephone">[+33 6 61 24 71 74](tel:+33661247174)</span>
+📞 <span itemprop="telephone">[+33 6 52 93 38 52](tel:+330652933852)</span>
 
 📧 [alban@adcoop.fr](mailto:alban@adcoop.fr)

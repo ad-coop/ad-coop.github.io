@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-desription = "AD COOP | Alban Dericbourg — Contactez-moi !"
+description = "AD COOP | Alban Dericbourg — Contactez-moi !"
 aliases = ["me-contacter"]
 author = "Alban Dericbourg"
 +++

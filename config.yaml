@@ -78,9 +78,7 @@ menus:
       url: "/contact/"
       weight: 4
 
-taxonomies:
-  series: "series"
-  tags: "tags"
+taxonomies: []
 
 frontmatter:
   date:

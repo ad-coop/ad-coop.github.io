@@ -2,7 +2,7 @@
 title = "Qui suis-je ?"
 subtitle = "Alban Dericbourg"
 description = "Alban Dericbourg — J'accompagne la coopération dans toutes ses phases avec une expérience solide de l'entreprise"
-aliases = ["about", "qui-suis-je", "alban", "alban-dericbourg"]
+aliases = ["about", "a-propos", "alban", "alban-dericbourg"]
 author = "Alban Dericbourg"
 +++
 

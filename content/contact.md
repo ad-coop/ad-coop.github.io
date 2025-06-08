@@ -11,7 +11,8 @@ Vous pouvez me contacter directement pour tout renseignement :
 
 📧 [alban@adcoop.fr](mailto:alban@adcoop.fr)
 
-Vous pouvez également me suivre sur les réseaux sociaux :
+Vous pouvez également me suivre ou laisser un avis sur les réseaux sociaux :
 
 * [Facebook](https://www.facebook.com/adcoop.alban.dericbourg)
 * [LinkedIn](https://www.linkedin.com/company/adcoop/)
+* [Google](https://maps.app.goo.gl/Rmk4AnKkNMNngq4HA)

@@ -7,7 +7,7 @@ author = "Alban Dericbourg"
 +++
 
 
-Après 15 ans en enteprise, j'ai une solide connaissance du fonctionnement et des enjeux des équipes dans divers contextes et en utilisant diverses méthodologies. J'en tire une une approche basée sur cette expérience et mes observations avec la volonté d'en tirer le meilleur et contribuer à développer une manière innovante de faire ensemble.
+Après 15 ans en entreprise, j'ai une solide connaissance du fonctionnement et des enjeux des équipes dans divers contextes et en utilisant diverses méthodologies. J'en tire une une approche basée sur cette expérience et mes observations avec la volonté d'en tirer le meilleur et contribuer à développer une manière innovante de faire ensemble.
 
 Je suis par ailleurs étayé par différents outils et pratiques acquis au fil des ans, des pratiques et des rencontres.
 

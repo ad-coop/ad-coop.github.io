@@ -10,18 +10,18 @@ content:
       text: "Je facilite vos réunions afin de vous aider à prendre des décisions ainsi qu'à identifier et à résoudre vos problèmes en utilisant l'intelligence collective. Si cela est approprié à votre contexte, je peux également faciliter vos réunions de gouvernance partagée."
       button:
         label: "En savoir plus"
-        url: "/facilitation"
+        url: "/facilitation/"
 
     - image: "images/services-web-development.png"
       title: "Coopération"
       text: "Je vous accompagne vers la coopération en vous aidant à mettre en place des outils, en travaillant sur la communication, en facilitant l'émergence d'idées nouvelles qui vous feront gagner en efficacité et en confiance."
       button:
         label: "En savoir plus"
-        url: "/gouvernance-partagee"
+        url: "/gouvernance-partagee/"
 
     - image: "images/services-web-development.png"
       title: "Jeu du Tao"
       text: "Que vous soyez un particulier, un groupe informel ou une équipe, le Jeu du Tao est un outil puissant pour réaliser ses souhaits ou atteindre ses objectifs, tout en explorant la coopération, la communication et la prise de décision. "
       button:
         label: "En savoir plus"
-        url: "/jeu-du-tao"
+        url: "/jeu-du-tao/"

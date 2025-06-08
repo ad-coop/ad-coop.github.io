@@ -1,4 +1,4 @@
 +++
-title = "Coopération, gouvernance partagée, Jeu du Tao"
+title = "Accompagner la coopération"
 author = "Alban Dericbourg"
 +++

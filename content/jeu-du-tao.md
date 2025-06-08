@@ -1,7 +1,7 @@
 +++
 title = "Jeu du Tao "
 subtitle = "Un jeu pour changer le monde"
-description = "Le Jeu du Tao utilise l'intelligence collective pour atteindre vos objectifs individuels ou collectifs, personnels ou professionnels. Jouez ensemble dans une ambiance bienveillante !"
+description = "Le Jeu du Tao est un jeu gagnant-gagnant où les joueur·euse·s s'entraident mutuellement pour atteindre leurs objectifs personnels ou professionnels"
 aliases = ["taoanimation", "tao"]
 author = "Alban Dericbourg"
 type = "page"

@@ -8,14 +8,22 @@ tags = ["Ressource", "Jeu du Tao"]
 
 Lors d'une partie de Jeu do Tao, ta quête est un **désir profond que tu souhaites voir réalisé**. Elle peut prendre différentes formes, de la plus matérielle à la plus spirituelle. Il n'y a pas de mauvaise quête : tout ce qui importe, c'est qu'elle soit vivante pour toi... et qu'elle ne cherche pas à nuire à l'autre ; « Je tue mon voisin » n'est pas une quête acceptable (même si parfois bien tentante).
 
+## Comment la choisir ?
+
+Qu'est-ce qui te travaille en ce moment ? Qu'est-ce que tu aimerais faire mais que tu n'arrives pas à lancer ? Qu'est-ce que tu voudrais vivre plus dans ta vie ? De quoi as-tu besoin ?
+
+Chaque quête est unique et propre à chacun·e de nous. Peut-être que ces questions t'aident à en identifier une. Peut-être même plusieurs ?
+
 ## Types de quête
 
-Il existe quatre types de quête au Jeu du Tao :
+Pour t'aider à clarifier ta quête, sache qu'il en existe quatre types au Jeu du Tao :
 
  * Les quêtes **matérielles** — « Je déménage à... »
  * Les quêtes **relationnelles** — « Je me réconcilie avec... »
  * Les quêtes **philosophiques et spirituelles** (bien-être) — « Je me mets au Yoga »
  * Les quêtes **créatives** — « Je créé mon potager »
+
+Tu en trouveras de nombreux exemples plus bas sur cette page.
 
 ## Formulation
 
@@ -27,9 +35,13 @@ Ce qui se conçoit clairement s'énonce clairement : une formulation juste aide 
 * À la première personne du singulier (« **Je** ») ou à l'infinitif
 * Avec une phrase courte !
 
+... et en même temps, on n'est pas à l'école ! Le Jeu du Tao est aussi (et avant tout ?) un jeu et il n'est nul besoin d'y être parfait. Si tu ne parviens pas à formuler ta quête à la perfection, pas d'inquiétude : le jeu t'aidera à le faire au cours de la partie.
+
 ***
 
 ## Quelques (!) exemples de quêtes 
+
+Note bien que ce sont des exemples. Si l'une d'elles te parle, tu peux la jouer. Mais tu peux aussi t'en inspirer pour en formuler une avec tes propres mots. C'est ta quête !
 
 ### Quêtes professionnelles et matérielles
 

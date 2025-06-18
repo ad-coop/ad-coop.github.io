@@ -12,7 +12,7 @@ summaryLength: 20
 
 params:
   title: "AD COOP"
-  description: "Accompagnement de la coopération, gouvernance partagée, conduite du changement, Jeu du Tao"
+  description: "Accompagnement de la coopération : facilitation, gouvernance partagée, intelligence collective, conduite du changement, Jeu du Tao"
   images: 
     - "images/logo.webp"
 

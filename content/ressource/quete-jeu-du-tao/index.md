@@ -1,12 +1,12 @@
 +++
 author = "Alban Dericbourg"
-title = "Formuler sa quête au Jeu du Tao"
+title = "Identifier et formuler sa quête au Jeu du Tao"
 date = "2025-06-16"
 description = "Un guide pour formuler sa quête au Jeu du Tao"
 tags = ["Ressource", "Jeu du Tao"]
 +++
 
-Lors d'une partie de Jeu do Tao, ta quête est un **désir profond que tu souhaites voir réalisé**. Elle peut prendre différentes formes, de la plus matérielle à la plus spirituelle. Il n'y a pas de mauvaise quête : tout ce qui importe, c'est qu'elle soit vivante pour toi... et qu'elle ne cherche pas à nuire à l'autre ; « Je tue mon voisin » n'est pas une quête acceptable (même si parfois bien tentante).
+Lors d'une partie de Jeu do Tao, ta quête est un **désir profond que tu souhaites voir réalisé**. Elle est ton point d'entrée dans le Jeu : c'est à partir d'elle que tout se joue. Elle peut prendre différentes formes, de la plus matérielle à la plus spirituelle. Il n'y a pas de mauvaise quête : tout ce qui importe, c'est qu'elle soit vivante pour toi... et qu'elle ne cherche pas à nuire à l'autre ; « Je tue mon voisin » n'est pas une quête acceptable (même si parfois bien tentante).
 
 ## Comment la choisir ?
 
@@ -35,7 +35,7 @@ Ce qui se conçoit clairement s'énonce clairement : une formulation juste aide 
 * À la première personne du singulier (« **Je** ») ou à l'infinitif
 * Avec une phrase courte !
 
-... et en même temps, on n'est pas à l'école ! Le Jeu du Tao est aussi (et avant tout ?) un jeu et il n'est nul besoin d'y être parfait. Si tu ne parviens pas à formuler ta quête à la perfection, pas d'inquiétude : le jeu t'aidera à le faire au cours de la partie.
+... et en même temps, on n'est pas à l'école ! Le Jeu du Tao est aussi (et avant tout ?) un jeu et il n'est nul besoin d'y être parfait. Si tu ne parviens pas à formuler ta quête à la perfection, ou même à l'identifier tout à fait, pas d'inquiétude : le jeu t'aidera à le faire au cours de la partie.
 
 ***
 

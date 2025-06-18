@@ -57,7 +57,7 @@ menus:
 
   buttons:
     - name: "Contact"
-      url: "/contact"
+      url: "/contact/"
       weight: 5
       pre: "btn btn-primary text-light"
 

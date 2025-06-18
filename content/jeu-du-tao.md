@@ -21,6 +21,19 @@ J'interviens autour de Poitiers et sur l'ex-Poitou-Charentes (Charente, Charente
 
 Je peux accueillir à l'[Atelier Kiyose](https://www.latelierkiyose.fr/) à Brux, chez vous ou dans votre entreprise, ou encore dans des espaces partagés (co-working, tiers-lieu...)
 
+## À qui s'adresse le Jeu du Tao ?
+
+Le Jeu du Tao s'adresse à tout le monde !
+
+Certains formats sont néanmoins plus adaptés à certains contextes.
+
+* La **quête individuelle** au cours de laquelle chaque participant·e joue un objectif qui lui est propre est un tout-terrain. Elle est particulièrement adaptée aux parties entre particuliers : entre amis, en famille, pour un événement spécial ou sans raison. En enteprise et dans les organisations en général, elle peut constituer un team building original et riche d'apprentissages.
+* La **quête collective** s'adresse avant tout aux groupes qui ont un projet commun : entreprise, collectivités locales, éco-lieux, familles... Je Jeu du Tao est alors un levier puissant pour mettre ce projet en mouvement.
+* La **vision partagée** coordonne les efforts des équipes et leur donne du sens. Le Jeu apporte ici le _petit plus_ de mettre cette vision en mouvement dès la fin de la partie. 
+
+Une Partie de Jeu du Tao prend son sens à partir de trois joueur·euse·s, sans limite haute.
+
+
 ## Prochaines parties
 
 [Retrouvez le calendrier des parties grand public sur Facebook.](https://www.facebook.com/adcoop.alban.dericbourg/events)

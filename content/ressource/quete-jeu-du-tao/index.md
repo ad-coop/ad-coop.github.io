@@ -1,6 +1,6 @@
 +++
 author = "Alban Dericbourg"
-title = "Identifier et formuler sa quête au Jeu du Tao"
+title = "Jeu dsu Tao : identifier et formuler sa quête"
 date = "2025-06-16"
 description = "Un guide pour formuler sa quête au Jeu du Tao"
 tags = ["Ressource", "Jeu du Tao"]

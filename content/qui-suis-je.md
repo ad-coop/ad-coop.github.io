@@ -9,6 +9,8 @@ author = "Alban Dericbourg"
 
 Après 15 ans en entreprise, j'ai une solide connaissance du fonctionnement et des enjeux des équipes dans divers contextes et en utilisant diverses méthodologies. J'en tire une une approche basée sur cette expérience et mes observations avec la volonté d'en tirer le meilleur et contribuer à développer une manière innovante de faire ensemble.
 
+J'ai rejoint en 2025 la Coopérative d'Activité et d'Emploi [Omnicité](https://omnicite.fr/).
+
 Je suis par ailleurs étayé par différents outils et pratiques acquis au fil des ans, des pratiques et des rencontres.
 
 J'ai commencé à goûter à la **gouvernance partagée** en 2019 avec le MOOC de l'[Université du Nous](https://universite-du-nous.org/) et du [Mouvement des Colibris](https://www.colibris-lemouvement.org). Je me suis également formé à la [facilitation en gouvernance partagée](https://universite-du-nous.org/formation/facilitation-gouvernance-partagee) avec l'UdN en 2024.

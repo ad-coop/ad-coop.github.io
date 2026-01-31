@@ -21,8 +21,8 @@
             {{ end }}
           </div>
           <div class="card-body">
-            <h5 class="card-title fw-semibold">{{ .Title }}</h5>
-            <p class="card-text text-black-61">{{ .Summary }}</p>
+            <h5 class="card-title fw-semibold text-primary">{{ .Title }}</h5>
+            <p class="card-text text-black-61">{{ .Summary | plainify | truncate 200 }}</p>
           </div>
         </a>
       </div>

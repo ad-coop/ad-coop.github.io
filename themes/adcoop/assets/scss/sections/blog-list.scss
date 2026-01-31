@@ -2,4 +2,10 @@
   .pagination {
     justify-content: center;
   }
+
+  a.card {
+    .card-text {
+      color: rgba(0, 0, 0, 0.61);
+    }
+  }
 }

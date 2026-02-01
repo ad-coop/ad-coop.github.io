@@ -96,7 +96,10 @@ This site targets WCAG 2.2 Level AA compliance. When modifying templates or styl
 
 ### Required Patterns
 - **Skip link**: `baseof.html` includes skip-to-main link (class `skip-link visually-hidden-focusable`)
-- **Landmarks**: Use `<main id="main-content">`, `<nav aria-label="...">`, `<footer role="contentinfo">`
+- **Landmark structure** (exactly one of each required):
+  - `<header>` at top-level → banner landmark (wraps the nav in `header.html`)
+  - `<main id="main-content">` → main landmark (in `baseof.html`)
+  - `<footer role="contentinfo">` → contentinfo landmark (in `footer.html`)
 - **Navigation labels**: Multiple `<nav>` elements must have distinct `aria-label` attributes
 
 ### Images & Icons

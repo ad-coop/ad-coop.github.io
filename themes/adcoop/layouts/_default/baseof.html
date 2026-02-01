@@ -2,8 +2,11 @@
 <html lang="fr">
   {{ partial "head/head.html" . }}
   <body>
+    <a href="#main-content" class="visually-hidden-focusable skip-link">Aller au contenu principal</a>
     {{- partial "shared/header.html" . -}}
-    {{- block "main" . -}}{{- end -}}
+    <main id="main-content">
+      {{- block "main" . -}}{{- end -}}
+    </main>
     {{- partial "shared/footer.html" . -}}
   </body>
 </html>

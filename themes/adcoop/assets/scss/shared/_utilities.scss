@@ -2,7 +2,25 @@
   font-weight: 600;
 }
 
-.text-black-61 { color: rgba(0, 0, 0, 0.61); }
+.skip-link {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  padding: 0.5rem 1rem;
+  background-color: $primary;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 0 0 0.25rem 0.25rem;
+
+  &:focus {
+    outline: 3px solid darken($primary, 15%);
+    outline-offset: 2px;
+  }
+}
+
+.text-black-61 { color: rgba(0, 0, 0, 0.74); }
 
 .bg-green { background-color: #B4D1C4; }
 .bg-yellow { background-color: #F6DE9D; }

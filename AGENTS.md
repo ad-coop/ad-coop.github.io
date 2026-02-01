@@ -9,10 +9,17 @@ AD COOP professional portfolio website built with Hugo. French-language site sho
 ## Development Commands
 
 ```bash
-make serve   # Start dev server at http://localhost:1313
-make shell   # Interactive shell with Hugo CLI
-make build   # Rebuild Docker image (after .hugo-version change)
-make clean   # Clean Docker artifacts
+# Start dev server at http://localhost:1313
+make serve
+
+# Interactive shell with Hugo CLI
+make shell
+
+# Rebuild Docker image (after .hugo-version change)
+make build
+
+# Clean Docker artifacts
+make clean
 ```
 
 Without Make:
@@ -82,3 +89,31 @@ content/ressource/plateau-jeu-du-tao/
 ├── preview.webp
 └── plateau.zip
 ```
+
+## Accessibility (WCAG 2.2 AA)
+
+This site targets WCAG 2.2 Level AA compliance. When modifying templates or styles:
+
+### Required Patterns
+- **Skip link**: `baseof.html` includes skip-to-main link (class `skip-link visually-hidden-focusable`)
+- **Landmarks**: Use `<main id="main-content">`, `<nav aria-label="...">`, `<footer role="contentinfo">`
+- **Navigation labels**: Multiple `<nav>` elements must have distinct `aria-label` attributes
+
+### Images & Icons
+- Decorative images: use `alt=""`
+- Decorative SVGs: add `aria-hidden="true" focusable="false"`
+- Functional images: provide meaningful `alt` text
+- Icon-only links: add `aria-label` describing the destination
+
+### Color Contrast
+- Text must have 4.5:1 contrast ratio minimum
+- Current body text uses `.text-black-61` at `rgba(0,0,0,0.74)` - do not reduce opacity
+- Primary color `#00A9A2` passes on white backgrounds
+
+### External Links
+- Add `target="_blank" rel="noopener"` for external links
+- Include "(nouvelle fenêtre)" or similar in `aria-label` to warn users
+
+### Forms (if added)
+- Every input needs a visible `<label>` or `aria-label`
+- Error messages must use `role="alert"` and be linked via `aria-describedby`

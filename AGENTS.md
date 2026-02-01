@@ -108,7 +108,7 @@ This site targets WCAG 2.2 Level AA compliance. When modifying templates or styl
 ### Color Contrast
 - Text must have 4.5:1 contrast ratio minimum
 - Current body text uses `.text-black-61` at `rgba(0,0,0,0.74)` - do not reduce opacity
-- Primary color `#00A9A2` passes on white backgrounds
+- Primary color `#007F7A` achieves 4.86:1 contrast on white - do not lighten
 
 ### External Links
 - Add `target="_blank" rel="noopener"` for external links

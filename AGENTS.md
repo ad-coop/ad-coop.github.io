@@ -9,17 +9,10 @@ AD COOP professional portfolio website built with Hugo. French-language site sho
 ## Development Commands
 
 ```bash
-# Start dev server at http://localhost:1313
-make serve
-
-# Interactive shell with Hugo CLI
-make shell
-
-# Rebuild Docker image (after .hugo-version change)
-make build
-
-# Clean Docker artifacts
-make clean
+make serve   # Start dev server at http://localhost:1313
+make shell   # Interactive shell with Hugo CLI
+make build   # Rebuild Docker image (after .hugo-version change)
+make clean   # Clean Docker artifacts
 ```
 
 Without Make:

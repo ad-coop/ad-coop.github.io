@@ -17,6 +17,8 @@ J'ai commencé à goûter à la **gouvernance partagée** en 2019 avec le MOOC d
 
 En complément, je suis formé à la **[Gouvernance Intégrative](https://gouvernanceintegrative.com/)** dont l'approche est de créer une gouvernance sur mesure.
 
+Pour accompagner vos projets, j'utilise entre autres **[Dragon Dreaming](https://revedudragon.org/)**, une méthode de pilotage de projets collectifs qui allie visioning créatif, planification stratégique et célébration. Au-delà de l'outil, c'est un modèle et une philosophie pour cultiver l'intelligence collective et l'engagement durable. Elle structure le passage du rêve partagé à l'action concrète, en maintenant l'énergie et la cohésion du groupe. Bien plus qu'un outil, c'est un cadre systémique qui transforme les intentions en résultats durables.
+
 Je pratique la **Communication NonViolente** depuis 2019 en ayant suivi les trois modules de bases ainsi que plusieurs modules d'approfondissement, et m'y exerce en groupe de façon régulière. Elle m'est un soutien fort pour avoir conscience ce qui se joue dans un groupe et adapter ma posture avec justesse.
 
 Je suis également initié aux **[Systèmes et Cercles Restauratifs](https://www.declic-cnveducation.org/qui-sommes-nous/les-systemes-et-cercles-restauratifs/)**. Un tel système anticipe ce qui pourra être fait en cas de tension ou de conflit. Il construit le cadre et clarifie les différentes possibilités d'accompagnement (pratiques restauratives), accessibles à tout membre du groupe. Les cercles, eux, sont un espace dans lequel le groupe s'empare du conflit avec une logique systémique avec l'intention de l'inclusion et la réintégration de l'auteur de l'acte, la réparation du préjudice, la restauration des liens et la sécurité de tous les membres.

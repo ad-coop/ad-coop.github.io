@@ -93,7 +93,7 @@
     "eslint-plugin-flowtype": "^5.2.2",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-unused-imports": "^1.1.0",
-    "flow-bin": "^0.139.0",
+    "flow-bin": "^0.329.0",
     "flow-copy-source": "^2.0.9",
     "get-port-cli": "^2.0.0",
     "husky": "^5.0.9",

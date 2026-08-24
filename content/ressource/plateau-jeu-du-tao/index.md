@@ -4,6 +4,7 @@ title = "Plateau de Jeu du Tao"
 date = "2025-06-09"
 description = "Plateau numérique de Jeu du Tao pour des parties en ligne"
 tags = ["Ressource", "Jeu du Tao"]
+images = ["plateau-preview.webp"]
 +++
 
 

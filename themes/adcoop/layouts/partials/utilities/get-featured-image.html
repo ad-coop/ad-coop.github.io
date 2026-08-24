@@ -1,10 +1,11 @@
 {{ $featured := "" }}
+{{ $page := . }}
 
 {{- with .Params.images -}}
-  {{ $featured = ( index . 0 ) }}
+  {{ $featured = $page.Resources.Get ( index . 0 ) }}
 {{ else -}}
   {{- with .Site.Params.images -}}
-    {{ $featured = ( index . 0 ) }}
+    {{ $featured = resources.Get ( index . 0 ) }}
   {{ end }}
 {{ end }}
 
